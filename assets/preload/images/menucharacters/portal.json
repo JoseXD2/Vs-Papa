@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "caja pizza  portal instancia 1",
+	"position": [
+		70,
+		-138
+	],
+	"scale": 1,
+	"image": "Menu_Portal",
+	"flipX": false
+}

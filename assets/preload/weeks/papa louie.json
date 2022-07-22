@@ -1,0 +1,41 @@
+{
+	"storyName": "Family Pizzaria",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "pizzaria",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Help-Wanted",
+			"louie",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Prestissimo",
+			"louie",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"portal",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Papa Louie"
+}

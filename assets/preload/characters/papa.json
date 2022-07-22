@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Papa louie Idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				78,
+				-288
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Papa louie Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				22
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Papa louie Sing note UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-45
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Papa louie Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				139,
+				5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Papa louie sing note right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Papa_louie_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "louie",
+	"flip_x": false,
+	"healthbar_colors": [
+		248,
+		248,
+		248
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

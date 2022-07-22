@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CLIENTES DELICES.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PL workers  instancia 10000" x="0" y="0" width="1548" height="591" frameX="-1" frameY="-11" frameWidth="1549" frameHeight="602"/>
+	<SubTexture name="PL workers  instancia 10001" x="0" y="0" width="1548" height="591" frameX="-1" frameY="-11" frameWidth="1549" frameHeight="602"/>
+	<SubTexture name="PL workers  instancia 10002" x="1549" y="0" width="1547" height="594" frameX="-1" frameY="-7" frameWidth="1549" frameHeight="602"/>
+	<SubTexture name="PL workers  instancia 10003" x="1549" y="0" width="1547" height="594" frameX="-1" frameY="-7" frameWidth="1549" frameHeight="602"/>
+	<SubTexture name="PL workers  instancia 10004" x="0" y="595" width="1547" height="594" frameX="-1" frameY="-8" frameWidth="1549" frameHeight="602"/>
+	<SubTexture name="PL workers  instancia 10005" x="0" y="595" width="1547" height="594" frameX="-1" frameY="-8" frameWidth="1549" frameHeight="602"/>
+	<SubTexture name="PL workers  instancia 10006" x="1548" y="595" width="1548" height="602" frameX="0" frameY="0" frameWidth="1549" frameHeight="602"/>
+	<SubTexture name="PL workers  instancia 10007" x="1548" y="595" width="1548" height="602" frameX="0" frameY="0" frameWidth="1549" frameHeight="602"/>
+	<SubTexture name="PL workers  instancia 10008" x="1548" y="595" width="1548" height="602" frameX="0" frameY="0" frameWidth="1549" frameHeight="602"/>
+	<SubTexture name="PL workers  instancia 10009" x="1548" y="595" width="1548" height="602" frameX="0" frameY="0" frameWidth="1549" frameHeight="602"/>
+	<SubTexture name="PL workers  instancia 10010" x="1548" y="595" width="1548" height="602" frameX="0" frameY="0" frameWidth="1549" frameHeight="602"/>
+	<SubTexture name="PL workers  instancia 10011" x="1548" y="595" width="1548" height="602" frameX="0" frameY="0" frameWidth="1549" frameHeight="602"/>
+	<SubTexture name="PL workers  instancia 10012" x="1548" y="595" width="1548" height="602" frameX="0" frameY="0" frameWidth="1549" frameHeight="602"/>
+	<SubTexture name="PL workers  instancia 10013" x="1548" y="595" width="1548" height="602" frameX="0" frameY="0" frameWidth="1549" frameHeight="602"/>
+	<SubTexture name="PL workers  instancia 10014" x="1548" y="595" width="1548" height="602" frameX="0" frameY="0" frameWidth="1549" frameHeight="602"/>
+	<SubTexture name="PL workers celebrating instancia 10000" x="0" y="1198" width="1622" height="590" frameX="-1" frameY="-11" frameWidth="1623" frameHeight="601"/>
+	<SubTexture name="PL workers celebrating instancia 10001" x="1623" y="1198" width="1612" height="593" frameX="-1" frameY="-7" frameWidth="1623" frameHeight="601"/>
+	<SubTexture name="PL workers celebrating instancia 10002" x="0" y="1792" width="1605" height="593" frameX="-1" frameY="-8" frameWidth="1623" frameHeight="601"/>
+	<SubTexture name="PL workers celebrating instancia 10003" x="1606" y="1792" width="1593" height="601" frameX="0" frameY="0" frameWidth="1623" frameHeight="601"/>
+	<SubTexture name="PL workers celebrating instancia 10004" x="1606" y="1792" width="1593" height="601" frameX="0" frameY="0" frameWidth="1623" frameHeight="601"/>
+	<SubTexture name="PL workers celebrating instancia 10005" x="1606" y="1792" width="1593" height="601" frameX="0" frameY="0" frameWidth="1623" frameHeight="601"/>
+	<SubTexture name="PL workers celebrating instancia 10006" x="1606" y="1792" width="1593" height="601" frameX="0" frameY="0" frameWidth="1623" frameHeight="601"/>
+	<SubTexture name="PL workers celebrating instancia 10007" x="1606" y="1792" width="1593" height="601" frameX="0" frameY="0" frameWidth="1623" frameHeight="601"/>
+	<SubTexture name="PL workers celebrating instancia 10008" x="1606" y="1792" width="1593" height="601" frameX="0" frameY="0" frameWidth="1623" frameHeight="601"/>
+	<SubTexture name="PL workers celebrating instancia 10009" x="1606" y="1792" width="1593" height="601" frameX="0" frameY="0" frameWidth="1623" frameHeight="601"/>
+	<SubTexture name="PL workers celebrating instancia 10010" x="1606" y="1792" width="1593" height="601" frameX="0" frameY="0" frameWidth="1623" frameHeight="601"/>
+	<SubTexture name="PL workers celebrating instancia 10011" x="1606" y="1792" width="1593" height="601" frameX="0" frameY="0" frameWidth="1623" frameHeight="601"/>
+	<SubTexture name="PL workers celebrating instancia 10012" x="1606" y="1792" width="1593" height="601" frameX="0" frameY="0" frameWidth="1623" frameHeight="601"/>
+	<SubTexture name="PL workers celebrating instancia 10013" x="1606" y="1792" width="1593" height="601" frameX="0" frameY="0" frameWidth="1623" frameHeight="601"/>
+	<SubTexture name="PL workers celebrating instancia 10014" x="1606" y="1792" width="1593" height="601" frameX="0" frameY="0" frameWidth="1623" frameHeight="601"/>
+</TextureAtlas>

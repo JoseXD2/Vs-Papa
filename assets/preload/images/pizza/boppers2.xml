@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boppers2.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PL characters looking instancia 10000" x="0" y="0" width="1934" height="456" frameX="0" frameY="-9" frameWidth="1934" frameHeight="465"/>
+	<SubTexture name="PL characters looking instancia 10001" x="0" y="0" width="1934" height="456" frameX="0" frameY="-9" frameWidth="1934" frameHeight="465"/>
+	<SubTexture name="PL characters looking instancia 10002" x="1935" y="0" width="1934" height="458" frameX="0" frameY="-7" frameWidth="1934" frameHeight="465"/>
+	<SubTexture name="PL characters looking instancia 10003" x="1935" y="0" width="1934" height="458" frameX="0" frameY="-7" frameWidth="1934" frameHeight="465"/>
+	<SubTexture name="PL characters looking instancia 10004" x="0" y="459" width="1928" height="461" frameX="-4" frameY="-4" frameWidth="1934" frameHeight="465"/>
+	<SubTexture name="PL characters looking instancia 10005" x="0" y="459" width="1928" height="461" frameX="-4" frameY="-4" frameWidth="1934" frameHeight="465"/>
+	<SubTexture name="PL characters looking instancia 10006" x="1929" y="459" width="1928" height="465" frameX="-5" frameY="0" frameWidth="1934" frameHeight="465"/>
+	<SubTexture name="PL characters looking instancia 10007" x="1929" y="459" width="1928" height="465" frameX="-5" frameY="0" frameWidth="1934" frameHeight="465"/>
+	<SubTexture name="PL characters looking instancia 10008" x="1929" y="459" width="1928" height="465" frameX="-5" frameY="0" frameWidth="1934" frameHeight="465"/>
+	<SubTexture name="PL characters looking instancia 10009" x="1929" y="459" width="1928" height="465" frameX="-5" frameY="0" frameWidth="1934" frameHeight="465"/>
+	<SubTexture name="PL characters looking instancia 10010" x="1929" y="459" width="1928" height="465" frameX="-5" frameY="0" frameWidth="1934" frameHeight="465"/>
+	<SubTexture name="PL characters looking instancia 10011" x="1929" y="459" width="1928" height="465" frameX="-5" frameY="0" frameWidth="1934" frameHeight="465"/>
+	<SubTexture name="PL characters looking instancia 10012" x="1929" y="459" width="1928" height="465" frameX="-5" frameY="0" frameWidth="1934" frameHeight="465"/>
+	<SubTexture name="PL characters looking instancia 10013" x="1929" y="459" width="1928" height="465" frameX="-5" frameY="0" frameWidth="1934" frameHeight="465"/>
+	<SubTexture name="PL characters looking instancia 10014" x="1929" y="459" width="1928" height="465" frameX="-5" frameY="0" frameWidth="1934" frameHeight="465"/>
+</TextureAtlas>

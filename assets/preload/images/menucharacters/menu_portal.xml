@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_portal.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="caja pizza  portal instancia 10000" x="0" y="0" width="337" height="233"/>
+	<SubTexture name="caja pizza  portal instancia 10001" x="0" y="0" width="337" height="233"/>
+	<SubTexture name="caja pizza  portal instancia 10002" x="338" y="0" width="334" height="222" frameX="0" frameY="-11" frameWidth="337" frameHeight="233"/>
+	<SubTexture name="caja pizza  portal instancia 10003" x="338" y="0" width="334" height="222" frameX="0" frameY="-11" frameWidth="337" frameHeight="233"/>
+	<SubTexture name="caja pizza  portal instancia 10004" x="673" y="0" width="331" height="212" frameX="0" frameY="-21" frameWidth="337" frameHeight="233"/>
+	<SubTexture name="caja pizza  portal instancia 10005" x="673" y="0" width="331" height="212" frameX="0" frameY="-21" frameWidth="337" frameHeight="233"/>
+	<SubTexture name="caja pizza  portal instancia 10006" x="0" y="234" width="337" height="218" frameX="0" frameY="-15" frameWidth="337" frameHeight="233"/>
+	<SubTexture name="caja pizza  portal instancia 10007" x="0" y="234" width="337" height="218" frameX="0" frameY="-15" frameWidth="337" frameHeight="233"/>
+	<SubTexture name="caja pizza  portal instancia 10008" x="338" y="234" width="336" height="225" frameX="0" frameY="-8" frameWidth="337" frameHeight="233"/>
+	<SubTexture name="caja pizza  portal instancia 10009" x="338" y="234" width="336" height="225" frameX="0" frameY="-8" frameWidth="337" frameHeight="233"/>
+</TextureAtlas>
